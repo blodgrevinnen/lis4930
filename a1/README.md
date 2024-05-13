@@ -11,7 +11,7 @@
 
 *10 Parts:*
 
-   - Install Python
+    - Install Python
     - Install R
     - Install R Studio
     - Install Visual Studio Code
