@@ -9,7 +9,16 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - TBD
+    - Install Python
+    - Install R
+    - Install R Studio
+    - Install Visual Studio Code
+    - Create *a1_tip_calculator* application
+    - Create *a1_tip_calculator* Jupyter Notebook
+    - Provide Screenshots of Installations
+    - Create Bitbucket Repo
+    - Complete Bitbucket tutorial (bitbucketstationlocations)
+    - Provide Git Command Descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - TBD
