@@ -24,7 +24,6 @@
 * Screenshot of *a1_tip_calculator* application running
 * Link to A1 .ipynb file: [tip_calculator.ipynb](a1_tip_calculator/tip_calculator.ipynb "A1 Jupyter Notebook")
 * git commands with short descriptions
-* 
 
 > This is a blockquote.
 > 
