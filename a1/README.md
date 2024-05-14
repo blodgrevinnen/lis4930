@@ -16,7 +16,7 @@
 3. Questions
 4. Bitbucket repo links:
 
-    a) this assignment and
+    a) this assignment and <br>
     b) the completed tutorial (bitbucketstationlocations)
 
 #### README.md file should include the following items:
