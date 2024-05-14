@@ -9,24 +9,21 @@
 
 ### Assignment 1 Requirements:
 
-*10 Parts:*
+*Four Parts:*
 
-    - Install Python
-    - Install R
-    - Install R Studio
-    - Install Visual Studio Code
-    - Create *a1_tip_calculator* application
-    - Create *a1_tip_calculator* Jupyter Notebook
-    - Provide Screenshots of Installations
-    - Create Bitbucket Repo
-    - Complete Bitbucket tutorial (bitbucketstationlocations)
-    - Provide Git Command Descriptions
+1. Distributed Version Control with Git and Bitbucket
+2. Development Installations
+3. Questions
+4. Bitbucket repo links:
+
+    a) this assignment and
+    b) the completed tutorial (bitbucketstationlocations)
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
+* Screenshot of *a1_tip_calculator* application running
+* Link to A1 .ipynb file: [tip_calculator.ipynb](a1_tip_calculator/tip_calculator.ipynb "A1 Jupyter Notebook")
+* git commands with short descriptions
 * 
 
 > This is a blockquote.
@@ -45,17 +42,19 @@
 
 #### Assignment Screenshots:
 
+#### Screenshot of a1_tip_calculator application running (IDLE):
+
+![Python Installation Screenshot IDLE](img/a1_tip_calculator_idle.png "A1 IDLE Screenshot")
+
+
+#### Screenshot of a1_tip_calculator application running (Visual Studio Code):
+![Python Installation Screenshot VS Code](img/a1_tip_calculator_vs_code.png "A1 VS Code Screenshot")
+
+#### A1 Jupyter Notebook:
+![tip_calculator.ipynb](img/a1_jupyter_notebook.png "A1 Jupyter Notebook")
+
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/tannerworkspace/bitbucketstationlocations/src/main/ "Bitbucket Station Locations")
-
-
-
-
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv dont forget about this 
-
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
