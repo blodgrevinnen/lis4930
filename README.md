@@ -21,7 +21,12 @@
     - Provide Git Command Descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - Data analysis and visualization steps:
+    - Get
+    - Clean
+    - Prepare
+    - Analyze
+    - Display/Visualize (preparation)
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
