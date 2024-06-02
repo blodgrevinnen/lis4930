@@ -29,7 +29,12 @@
     - Display/Visualize (preparation)
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Data analysis and visualization steps:
+    - Get
+    - Clean
+    - Prepare
+    - Analyze
+    - Display/Visualize (using different types of graphs)
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD
