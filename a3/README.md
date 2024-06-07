@@ -28,6 +28,21 @@
 > This is the second paragraph in the blockquote.
 >
 
+#### Skillset Screenshots
+
+*Screenshot of Skillset 4*
+
+![Skillset 4 Screenshot](img/skillset_4.png)
+
+*Screenshot of Skillset 5*
+
+![Skillset 5 Screenshot](img/skillset_5.png)
+
+*Screenshot of Skillset 6 With Extra Credit*
+
+![Skillset 6 Screenshot Equal to and Above](img/skillset_6_equalto_and_above.png)
+![Skillset 6 Screenshot Equal to and Below](img/skillset_6_equalto_and_below.png)
+
 #### Assignment Screenshots:
 
 #### Screenshot A3 Jupyter Notebook:
