@@ -42,6 +42,7 @@
 
 ![Skillset 6 Screenshot Equal to and Above](img/skillset_6_equalto_and_above.png)
 ![Skillset 6 Screenshot Equal to and Below](img/skillset_6_equalto_and_below.png)
+![Skillset 6 Extra Credit Code](img/skillset_6_extra_credit_code.png)
 
 #### Assignment Screenshots:
 
