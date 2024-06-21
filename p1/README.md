@@ -22,7 +22,7 @@
 #### README.md file should include the following items:
 
 * Screenshot of Jupyter Notebook
-* Link to P1 .ipynb file: [a3.ipynb](p1/p1.ipynb "P1 Jupyter Notebook")
+* Link to P1 .ipynb file: [p1.ipynb](p1/p1.ipynb "P1 Jupyter Notebook")
 
 > This is a blockquote.
 > 
