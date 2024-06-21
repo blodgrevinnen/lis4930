@@ -43,7 +43,12 @@
     - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+    - Import necessary packages
+    - Review data
+    - Prepare data for analysis
+    - Filter data
+    - Display product review sentiment analysis
+    - Create prediction analysis
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD
