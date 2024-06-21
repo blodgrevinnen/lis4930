@@ -10,12 +10,13 @@
 ### Project 1 Requirements:
 
 *Six Parts:*
-1. Import necessary packages
-1. Review data
-1. Prepare data for analysis
-1. Filter data
-1. Display product review sentiment analysis
-1. Create prediction analysis
+
+1. Import necessary packages 
+2. Review data
+3. Prepare data for analysis
+4. Filter data
+5. Display product review sentiment analysis
+6. Create prediction analysis
 
 
 
