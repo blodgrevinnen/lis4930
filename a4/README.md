@@ -52,7 +52,8 @@
 ![Skillset 11 Screenshot](img/skillset_11_lists_and_dictionaries_with_data_validation_extra_credit_1.png)
 ![Skillset 11 Screenshot](img/skillset_11_lists_and_dictionaries_with_data_validation_extra_credit_2.png)
 
-*Screenshot of Skillset 11 Extra Credit Code**
+*Screenshot of Skillset 11 Extra Credit Code*
+
 ![Skillset 11 Screenshot](img/skillset_11_lists_and_dictionaries_with_data_validation_code.png)
 
 *Screenshot of Skillset 12*
