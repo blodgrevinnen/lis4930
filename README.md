@@ -48,7 +48,15 @@
     - Plot residuals
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Contrast similarities/differences among AI vs. Machine-Learning vs. Deep-Learning
+    - Identify Correlations
+    - Use Seaborn (data visualization library built on top of matplotlib)
+    - Graph correlations
+    - Use *multiple* linear regression
+    - Create linear model
+    - Plot regression line
+    - Make predictions - using simple linear regression model
+    - Plot residuals
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Import necessary packages
