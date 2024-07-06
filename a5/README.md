@@ -1,9 +1,3 @@
-REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
-REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
-REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
-REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
-REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
-
 > **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
 >
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
@@ -41,11 +35,11 @@ REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
 
 #### Skillset Screenshots
 
-* Link to Skillset 13 my_env_versions.py file: [my_env_versions](skill_sets/skillset_13_python_environments/my_env_versions.py "SS13 Code")
+* Link to Skillset 13 my_env_versions.py file: [my_env_versions](../skill_sets/skillset_13_python_environments/my_env_versions.py "SS13 Code")
 
 *Screenshot of Skillset 13*
 
-![Skillset 13 Screenshot](img/skillset_13.png)
+![Skillset 13 Screenshot](img/skillset_13.png) <br />
 
 *Skillset 13 Code*
 ![Skillset 13 Screenshot](img/skillset_13_code.png)
