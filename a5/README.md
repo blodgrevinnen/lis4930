@@ -41,7 +41,7 @@ REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
 
 #### Skillset Screenshots
 
-* Link to Skillset 13 my_env_versions.py file: [](a5.ipynb "A5 Jupyter Notebook")
+* Link to Skillset 13 my_env_versions.py file: [skill_sets/skillset_13_python_environments/my_env_versions.py](my_env_versions.py "SS13 Code")
 
 *Screenshot of Skillset 13*
 
@@ -62,20 +62,24 @@ REMEMBER TO ADD A LINK TO THE SKILLSET 13 FILE
 
 #### Screenshot P1 Jupyter Notebook:
 
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_1.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_2.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_3.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_4.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_5.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_6.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_7.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_8.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_9.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_10.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_11.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_12.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_13.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_14.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_15.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_16.png "P1 Jupyter Notebook")
-![P1 Jupyter Notebook](img/p1_jupyter_notebook_17.png "P1 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_1.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_2.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_3.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_4.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_5.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_6.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_7.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_8.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_9.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_10.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_11.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_12.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_13.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_14.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_15.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_16.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_17.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_18.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_19.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_20.png "A5 Jupyter Notebook")
+![A5 Jupyter Notebook](img/a5_jupyter_notebook_21.png "A5 Jupyter Notebook")
