@@ -36,6 +36,7 @@
 #### Skillset Screenshots
 
 * Link to Skillset 13 my_env_versions.py file: [my_env_versions](../skill_sets/skillset_13_python_environments/my_env_versions.py "SS13 Code")
+* Link to Skillset 13 testenv_package_list.txt file [testenv_package_list](../skill_sets/skillset_13_python_environments/testenv_package_list.txt "SS13 Text File")
 
 *Screenshot of Skillset 13*
 
