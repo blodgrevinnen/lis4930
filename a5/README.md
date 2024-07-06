@@ -39,10 +39,10 @@
 
 *Screenshot of Skillset 13*
 
-![Skillset 13 Screenshot](img/skillset_13.png) <br />
+![Skillset 13 Screenshot](img/skillset_13.png)
 
 *Skillset 13 Code*
-![Skillset 13 Screenshot](img/skillset_13_code.png)
+<img style="float: left;" src="img/skillset_13_code.png>
 
 *Screenshot of Skillset 14*
 
