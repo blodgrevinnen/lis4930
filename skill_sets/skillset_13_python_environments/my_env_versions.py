@@ -30,7 +30,7 @@ def export_package_list():
         # use pip to list installed packages and versions
         result = subprocess.check_output("pip list --format=freeze", shell=True, text=True)
 
-        # edit output to exclude version numbers
+        # edit output and put it in list to prepare for writing to file
         package_list = []
         for line in result.splitlines():
             package_info = line.split("==")
