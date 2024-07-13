@@ -50,8 +50,20 @@ list_package_verions()
 def export_package_list():
     """Accepts 0 args. Exports package list to file."""
     try:
+<<<<<<< HEAD
         # use conda to list installed packages
         result = subprocess.check_output("conda list", shell=True, text=True)
+=======
+        # use pip to list installed packages and versions
+        result = subprocess.check_output("pip list --format=freeze", shell=True, text=True)
+
+        # edit output and put it in list to prepare for writing to file
+        package_list = []
+        for line in result.splitlines():
+            package_info = line.split("==")
+            if len(package_info) >= 2:
+                package_list.append(f"{package_info[0]}=={package_info[1]}")
+>>>>>>> 526b4bd3aeb299944c533c90f6e35f55ecb5ce54
 
         # write output to file
         with open("testenv_package_list.txt", "w") as f:
