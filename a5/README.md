@@ -42,9 +42,9 @@
 
 ![Skillset 13 Screenshot](img/skillset_13.png)
 
-* Link to LIS4930 package list [skillset_14_env_package_list.txt](../skill_sets/skillset_14_python_image_processing/skillset_14_env_package_list.txt)
-
 *Screenshot of Skillset 14*
+
+* Link to LIS4930 package list [skillset_14_env_package_list.txt](../skill_sets/skillset_14_python_image_processing/skillset_14_env_package_list.txt)
 
 ![Skillset 14 Screenshot 1](img/skillset_14_1.png "Skillset 14")
 ![Skillset 14 Screenshot 2](img/skillset_14_2.png "Skillset 14")
@@ -52,9 +52,9 @@
 ![Skillset 14 Screenshot 4](img/skillset_14_4.png "Skillset 14")
 ![Skillset 14 Screenshot 5](img/skillset_14_5.png "Skillset 14")
 
-* Link to LIS4930 package list [skillset_15_env_package_list.txt](../skill_sets/skillset_15_python_image_processing_2/skillset_15_env_package_list.txt)
-
 *Screenshot of Skillset 15*
+
+* Link to LIS4930 package list [skillset_15_env_package_list.txt](../skill_sets/skillset_15_python_image_processing_2/skillset_15_env_package_list.txt)
 
 ![Skillset 15 Screenshot](img/skillset_15_1.png "Skillset 15")
 ![Skillset 15 Screenshot](img/skillset_15_2.png "Skillset 15")
