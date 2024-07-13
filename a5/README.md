@@ -45,6 +45,7 @@
 *Screenshot of Skillset 14*
 
 * Link to LIS4930 package list [skillset_14_env_package_list.txt](../skill_sets/skillset_14_python_image_processing/skillset_14_env_package_list.txt)
+* Link to SS14 .ipynb file: [image_processing.ipynb](../skill_sets/skillset_14_python_image_processing/image_processing.ipynb "SS14 Jupyter Notebook")
 
 ![Skillset 14 Screenshot 1](img/skillset_14_1.png "Skillset 14")
 ![Skillset 14 Screenshot 2](img/skillset_14_2.png "Skillset 14")
@@ -55,6 +56,7 @@
 *Screenshot of Skillset 15*
 
 * Link to LIS4930 package list [skillset_15_env_package_list.txt](../skill_sets/skillset_15_python_image_processing_2/skillset_15_env_package_list.txt)
+* Link to SS15 .ipynb file: [image_processing.ipynb](../skill_sets/skillset_15_python_image_processing_2/image_processing_2.ipynb "SS15 Jupyter Notebook")
 
 ![Skillset 15 Screenshot](img/skillset_15_1.png "Skillset 15")
 ![Skillset 15 Screenshot](img/skillset_15_2.png "Skillset 15")
