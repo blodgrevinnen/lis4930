@@ -5,13 +5,23 @@ import subprocess # used to run command prompt commands
 import os
 import shutil # https://docs.python.org/3/library/shutil.html
 import sys
+import jupyterlab
+import pandas
+import numpy
+import matplotlib
+import sklearn
+import django
+import tensorflow
+import scipy
+import keras
 
 """
-Defines three functions:
+Defines four functions:
 
 1. list_envs_and_paths()
-2. export_package_list()
-3. remove_environment()
+2. list_package_versions()
+3. export_package_list()
+4. remove_environment()
 
 """
 
@@ -24,30 +34,36 @@ def list_envs_and_paths():
 
 list_envs_and_paths()
 
+def list_package_verions():
+    """Accepts 0 args. Lists package versions."""
+    print('Python version: \n{0}'.format(sys.version), "\n")
+    print('jupyterlab: {0}'.format(jupyterlab.__version__))
+    print('pandas: {0}'.format(pandas.__version__))
+    print('numpy: {0}'.format(numpy.__version__))
+    print('matplotlib: {}'.format(matplotlib.__version__))
+    print('sklearn: {0}'.format(sklearn.__version__))
+    print('django: {0}'.format(sklearn.__version__))
+    print('tensorflow: {0}'.format(tensorflow.__version__))
+
+list_package_verions()
+
 def export_package_list():
     """Accepts 0 args. Exports package list to file."""
     try:
-        # use pip to list installed packages and versions
-        result = subprocess.check_output("pip list --format=freeze", shell=True, text=True)
-
-        # edit output to exclude version numbers
-        package_list = []
-        for line in result.splitlines():
-            package_info = line.split("==")
-            if len(package_info) >= 2:
-                package_list.append(f"{package_info[0]}=={package_info[1]}")
+        # use conda to list installed packages
+        result = subprocess.check_output("conda list", shell=True, text=True)
 
         # write output to file
         with open("testenv_package_list.txt", "w") as f:
-            f.write("\n".join(package_list))
-            f.write("\n")
+            f.write(result)
 
-        print("Successfully exported package list to \"testenv_package_list.txt\"")
+        print('\nSuccessfully exported package list to "testenv_package_list.txt"')
 
     except subprocess.CalledProcessError as e:
         print(f"Error: {e}")
 
 export_package_list()
+
 
 # USE WITH CAUTION!!
 def remove_environment(force_deletion=True):
@@ -68,4 +84,4 @@ def remove_environment(force_deletion=True):
         except OSError as e:
             raise
 
-remove_environment()
+# remove_environment()

@@ -42,17 +42,45 @@
 
 ![Skillset 13 Screenshot](img/skillset_13.png)
 
-*Skillset 13 Code*
-
-![Skillset 13 Screenshot](img/skillset_13_code.png)
+* Link to LIS4930 package list [skillset_14_env_package_list.txt](../skill_sets/skillset_14_python_image_processing/skillset_14_env_package_list.txt)
 
 *Screenshot of Skillset 14*
 
-![Skillset 14 Screenshot]()
+![Skillset 14 Screenshot 1](img/skillset_14_1.png "Skillset 14")
+![Skillset 14 Screenshot 2](img/skillset_14_2.png "Skillset 14")
+![Skillset 14 Screenshot 3](img/skillset_14_3.png "Skillset 14")
+![Skillset 14 Screenshot 4](img/skillset_14_4.png "Skillset 14")
+![Skillset 14 Screenshot 5](img/skillset_14_5.png "Skillset 14")
+
+* Link to LIS4930 package list [skillset_15_env_package_list.txt](../skill_sets/skillset_15_python_image_processing_2/skillset_15_env_package_list.txt)
 
 *Screenshot of Skillset 15*
 
-![Skillset 15 Screenshot]()
+![Skillset 15 Screenshot](img/skillset_15_1.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_2.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_3.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_4.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_5.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_6.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_7.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_8.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_9.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_10.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_11.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_12.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_13.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_14.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_15.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_16.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_17.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_18.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_19.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_20.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_21.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_22.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_23.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_24.png "Skillset 15")
+![Skillset 15 Screenshot](img/skillset_15_25.png "Skillset 15")
 
 #### Assignment Screenshots:
 
