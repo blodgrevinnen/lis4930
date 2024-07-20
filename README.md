@@ -67,4 +67,9 @@
     - Create prediction analysis
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Describe "Deep Learning"
+    - Describe "Neural networks"
+    - Install necessary modules/packages
+    - Import required dataset
+    - Analyze images
+    - Build and train convolution neural network (CNN) to classify images
