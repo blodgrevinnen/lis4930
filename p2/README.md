@@ -25,7 +25,7 @@
 * Screenshot of Jupyter Notebook
 * Link to P2 .ipynb file: [p2.ipynb](p2.ipynb "P2 Jupyter Notebook")
 * Link to My GUI .ipynb file: [my_gui.ipynb](my_gui.ipynb "My GUI Jupyter Notebook")
-* Link to exported LIS4930 Conda environment package list. [p2-package-list.txt](p2-package-list.txt "LIS4930 Package List)
+* Link to exported LIS4930 Conda environment package list. [p2-package-list.txt](p2-package-list.txt "LIS4930 Package List")
 
 > This is a blockquote.
 > 
