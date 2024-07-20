@@ -64,4 +64,4 @@
 ![P2 Jupyter Notebook](img/p2_jupyter_notebook_18.png "P2 Jupyter Notebook")
 ![P2 Jupyter Notebook](img/p2_jupyter_notebook_19.png "P2 Jupyter Notebook")
 ![P2 Jupyter Notebook](img/p2_jupyter_notebook_20.png "P2 Jupyter Notebook")
-![P2 Jupyter Notebook](img/p2_jupyter_notebook_20.png "P2 Jupyter Notebook")
+![P2 Jupyter Notebook](img/p2_jupyter_notebook_21.png "P2 Jupyter Notebook")
